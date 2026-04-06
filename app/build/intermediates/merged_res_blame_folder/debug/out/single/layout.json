@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.13\\com.example.flashcardapp-mergeDebugResources-42:\\layout\\activity_reminder.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.13\\com.example.flashcardapp-main-45:\\layout\\activity_reminder.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "com.example.flashcardapp-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.13\\com.example.flashcardapp-mergeDebugResources-42:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.13\\com.example.flashcardapp-main-45:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.13\\com.example.flashcardapp-mergeDebugResources-42:\\layout\\activity_vocabulary.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.13\\com.example.flashcardapp-main-45:\\layout\\activity_vocabulary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.13\\com.example.flashcardapp-mergeDebugResources-42:\\layout\\item_flashcard.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.13\\com.example.flashcardapp-main-45:\\layout\\item_flashcard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hi\\.gradle\\daemon\\8.13\\com.example.flashcardapp-mergeDebugResources-42:\\layout\\activity_study.xml",
+        "source": "C:\\Users\\Hi\\.gradle\\daemon\\8.13\\com.example.flashcardapp-main-45:\\layout\\activity_study.xml"
+    }
+]
