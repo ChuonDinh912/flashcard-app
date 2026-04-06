@@ -15,7 +15,7 @@ import kotlinx.coroutines.*
 import java.text.SimpleDateFormat
 import java.util.*
 import java.util.concurrent.TimeUnit
-
+//update ui
 class ReminderActivity : AppCompatActivity() {
 
     private var selectedCal = Calendar.getInstance()

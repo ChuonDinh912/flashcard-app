@@ -7,7 +7,7 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.example.flashcardapp.R
 import com.example.flashcardapp.data.Flashcard
-
+//update ui
 class FlashcardAdapter(private val cards: List<Flashcard>) :
     RecyclerView.Adapter<FlashcardAdapter.ViewHolder>() {
 

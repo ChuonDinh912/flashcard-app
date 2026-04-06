@@ -1,5 +1,5 @@
 package com.example.flashcardapp.ui
-
+//update ui
 import android.graphics.Color
 import android.os.Bundle
 import android.view.View
